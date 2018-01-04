@@ -1,3 +1,0 @@
-# Module spjobs
-# RPC service class, partial path of RPC policy file
-spjobs.client.service.CoreService, D7387BDCCC4E327B75B8DE54EB9FE87F.gwt.rpc

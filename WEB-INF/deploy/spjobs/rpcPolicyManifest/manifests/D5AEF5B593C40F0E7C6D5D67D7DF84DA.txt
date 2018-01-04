@@ -1,2 +1,0 @@
-serviceClass: spjobs.client.service.CoreService
-path: D7387BDCCC4E327B75B8DE54EB9FE87F.gwt.rpc
